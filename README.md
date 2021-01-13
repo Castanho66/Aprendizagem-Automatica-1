@@ -1,2 +1,2 @@
-# Aprendizagem-Autom-tica
-Things I did in this subject
+# Aprendizagem Automática
+Trabalhos realizados durante a disciplina
